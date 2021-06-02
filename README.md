@@ -1,5 +1,13 @@
-### Hi there 👋
+### Khalil Abdellah ⚡🌱 Open to work!
+#### khalil.mktg@gmail.com
 
+I'm a recent graduate in Marketing from Temple University, 
+building skills and looking for experience in UX, web development, and SEO. 
+My biggest interest now is using UX for journalism, or communication design.
+
+Looking to collaborate on a collaborative annotation project in node.js!
+
+[Resume]() | [Twitter](https://twitter.com/abdellica)
 <!--
 **cv-net/cv-net** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

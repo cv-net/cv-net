@@ -7,7 +7,7 @@ My biggest interest now is using UX for journalism, or communication design.
 
 Looking to collaborate on a collaborative annotation project in node.js!
 
-[Resume](https://github.com/cv-net/cv-net/blob/main/Khalil%20Abdellah%20Resume%205-21.pdf) | [Twitter](https://twitter.com/abdellica)
+[Resume](https://github.com/cv-net/cv-net/blob/main/Khalil%20Abdellah%20Resume%205-21.pdf) | [Portfolio](https://portfolio-five-pink.vercel.app/) | [Twitter](https://twitter.com/abdellica)
 <!--
 **cv-net/cv-net** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

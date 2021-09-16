@@ -1,9 +1,6 @@
-### Khalil Abdellah ⚡🌱 Open to work!
+### Khalil Abdellah ⚡🌱 Software Engineer!
 #### khalil.mktg@gmail.com
-
-I'm a recent graduate in Marketing from Temple University, 
-building skills and looking for experience in UX, web development, and SEO. 
-My biggest interest now is using UX for journalism, or communication design.
+SWE, Philadelphia PA. My biggest interest now is using UX for journalism, or communication design.
 
 Looking to collaborate on a collaborative annotation project in node.js!
 

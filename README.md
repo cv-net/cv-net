@@ -1,4 +1,4 @@
-### Khalil Abdellah ⚡🌱 Software Engineer!
+### Khalil Abdellah ⚡🌱 Software Engineer
 #### khalil.mktg@gmail.com
 SWE, Philadelphia PA. My biggest interest now is using UX for journalism, or communication design.
 
